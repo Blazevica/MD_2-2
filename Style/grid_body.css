@@ -1,0 +1,13 @@
+.grid {
+    display: grid;
+
+}
+
+.site {
+    min-height: 50vh;
+    background-color: aqua;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+
+}
